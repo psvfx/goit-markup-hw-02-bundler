@@ -1,6 +1,23 @@
 :root {
+  --secondary-font: 'Raleway', sans-serif;
   --logo-span-color: #4d5ae5;
   --link-hover-color: #404bbf;
+}
+.logo {
+  font-family: var(--secondary-font);
+  font-size: 18px;
+  line-height: 1.33;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
 }
 .header-logo {
   color: #2e2f42;

@@ -1,0 +1,16 @@
+:root {
+  --background-color: #2e2f42;
+  --logo-span-color: #4d5ae5;
+}
+.footer {
+  background: var(--background-color);
+}
+.footer-logo {
+  color: #f4f4fd;
+}
+.footer-logo span {
+  color: var(--logo-span-color);
+}
+.footer-text {
+  color: #e7e9fc;
+}

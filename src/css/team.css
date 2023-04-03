@@ -1,0 +1,15 @@
+:root {
+  --subtitle-color: #2e2f42;
+  --main-text-color: #434455;
+}
+.team {
+  background: #f4f4fd;
+}
+.team-subtitle {
+  text-align: center;
+  color: var(--subtitle-color);
+}
+.team-text {
+  text-align: center;
+  color: var(--main-text-color);
+}

@@ -1,0 +1,10 @@
+:root {
+  --subtitle-color: #2e2f42;
+  --main-text-color: #434455;
+}
+.advantages-subtitle {
+  color: var(--subtitle-color);
+}
+.advantages-text {
+  color: var(--main-text-color);
+}

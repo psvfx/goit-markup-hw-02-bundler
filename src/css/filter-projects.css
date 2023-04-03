@@ -1,0 +1,22 @@
+:root {
+  --subtitle-color: #2e2f42;
+  --main-text-color: #434455;
+}
+.filter-btn {
+  color: #4d5ae5;
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+}
+.filter-btn:hover,
+.filter-btn:focus {
+  color: #ffffff;
+  background: #404bbf;
+  cursor: pointer;
+}
+.projects-subtitle {
+  color: var(--subtitle-color);
+}
+.projects-text {
+  color: var(--main-text-color);
+}
